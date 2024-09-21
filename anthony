@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flores Amarillas para Yeremy</title>
+</head>
+<body>
+    <h1>Flores Amarillas</h1>
+    <p>¡Bienvenido, Yeremy! Las flores amarillas son un símbolo de alegría y amistad.</p>
+    
+    <div id="mensaje">
+        <pre>
+        Querido Yeremy,
+        Que cada día sea tan brillante como las flores amarillas.
+        Recuerda siempre que eres especial y querido. ¡Sonríe!
+        </pre>
+    </div>
+
+    <audio controls>
+        <source src="cancion.mp3" type="audio/mpeg">
+        Tu navegador no soporta audio.
+    </audio>
+</body>
+</html>
